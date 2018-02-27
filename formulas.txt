@@ -1,0 +1,56 @@
+
+//Physical Damage Modifier Stat Equation where stat is Strength, w is 72+, x is 50-72, y is 24-50, z is 0-24
+
+27w + 22x + 26y + 24z = 400
+40 + 60 + 100 + 200
+
+w = 1.5
+x = 2.72
+y = 3.85
+z = 8.3
+
+
+
+//Hit chance mod stat equation where stat is Dexterity,  w is 72+, x is 50-72, y is 24-50, z is 0-24
+
+
+27w + 22x + 26y + 24z = 125
+7 + 28 + 40 + 50
+
+w = 0.26
+x = 1.28
+y = 1.54
+z = 2.08
+
+//Cast chance mod using int and wisdom where max value is (int + wis) / 1.2
+
+165
+
+86.2
+50
+28.8
+
+78.8w + 36.2x + 21.2y + 28.8z = 125
+7 + 28 + 40 + 50
+
+w = 0.09
+x = 0.77
+y = 1.89
+z = 1.73
+
+
+//Mana mod
+
+27w + 22x + 26y + 24z = 90
+
+10 + 15 + 25 + 40
+
+w = 0.37
+x = 0.68
+y = 0.96
+z = 1.67
+
+
+
+
+
